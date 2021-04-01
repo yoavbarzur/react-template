@@ -8,3 +8,10 @@ The following template contains the following tools:
 4. Eslint with recommended configuration.
 5. Jest and React testing library for testing.
 6. Storybook for a component driven development.
+
+commands:
+npm run build - create a ready for deploy version inside build folder.
+npm run storybook - run storybook in localhost:6006
+npm run test - run jest test on all components
+npm run start - create a development server in localhost:8080
+

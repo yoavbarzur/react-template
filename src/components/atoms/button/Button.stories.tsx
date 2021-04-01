@@ -1,5 +1,5 @@
 import { Story, Meta } from '@storybook/react';
-
+import {action} from '@storybook/addon-actions';
 import { Button, ButtonProps } from './Button';
 
 export default {
@@ -16,6 +16,7 @@ export const Primary = Template.bind({});
 Primary.args = {
   primary: true,
   label: 'Button',
+  onClick: action('ff')
 };
 
 export const Secondary = Template.bind({});

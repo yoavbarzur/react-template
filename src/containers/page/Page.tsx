@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Header } from './Header';
+import { Header } from 'components/organism/header/Header';
 import './page.css';
 
 export interface PageProps {
