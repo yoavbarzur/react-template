@@ -10,8 +10,8 @@ The following template contains the following tools:
 6. Storybook for a component driven development.
 
 commands:
-npm run build - create a ready for deploy version inside build folder.
-npm run storybook - run storybook in localhost:6006
-npm run test - run jest test on all components
-npm run start - create a development server in localhost:8080
+1. npm run build - create a ready for deploy version inside build folder.
+2. npm run storybook - run storybook in localhost:6006
+3. npm run test - run jest test on all components
+4. npm run start - create a development server in localhost:8080
 
