@@ -1,4 +1,4 @@
-# react-template
+# React-Template
 Ready for production React template
 
 The following template contains the following tools:
